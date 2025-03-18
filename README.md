@@ -1,1 +1,2 @@
-Tic Tac Toe Final Project for ICS3U
+# Tic Tac Toe Final Project
+Simple and easy user interface on console output, have fun!
